@@ -36,5 +36,6 @@
       "bcrypt",
       "sharp"
     ]
-  }
+  },
+  "type": "module"
 }
